@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://restorationwestnewyork.com/sitemap.xml
